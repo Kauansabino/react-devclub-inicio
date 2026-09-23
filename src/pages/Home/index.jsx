@@ -9,10 +9,10 @@ import {
   TopBackground,
   Form,
   ConteinerInput,
-  Button,
   InputLabel
 } from "./styles";
 
+import Button from '../../components/Button'
 import UsersImage from "../../assets/users.png";
 
 function Home() {
