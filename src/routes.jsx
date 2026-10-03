@@ -9,7 +9,7 @@ const router = createBrowserRouter([
     element: <Home />
   },
   {
-path: '/Listar-Usuarios',
+path: '/list-users',
 element : <ListUsers />
   }
 ])
